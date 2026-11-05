@@ -5,3 +5,4 @@ El presente proyecto desarrolla un módulo de software automatizado para la gest
 
 # Integrantes del Equipo
 * Camila Romero 
+
